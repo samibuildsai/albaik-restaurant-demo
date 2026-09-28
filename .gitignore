@@ -50,3 +50,6 @@ next-env.d.ts
 *.log
 .cache
 .tmp
+
+.vercel
+.env*
