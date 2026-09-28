@@ -1,0 +1,10 @@
+# Files not needed for the Vercel build upload
+node_modules
+.next
+.vercel
+*.tsbuildinfo
+npm-debug.log*
+.env
+.env.local
+.env.production
+.env*.local
